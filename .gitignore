@@ -99,7 +99,6 @@ media/xmlconnect/
 media/catalog/product/cache/
 media/catalog/product/placeholder/default/
 /api.php
-nbproject/
 pear
 pear/
 php.ini.sample
